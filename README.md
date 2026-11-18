@@ -34,14 +34,20 @@ My research sits at the intersection of **musculoskeletal rehabilitation, clinic
 
 | Project | Highlights |
 | :--- | :--- |
-| 🩺 **[MedBench v4](https://arxiv.org/abs/2511.14439)** | **Contributing co-author.** Large-scale collaborative evaluation of Chinese medical language models, multimodal models and agents. The initiative covers 24 primary specialties, 91 secondary specialties and 700,000+ curated tasks. |
+| 🩺 **[MedBench v4](https://arxiv.org/abs/2511.14439) / [MedBench v5](https://arxiv.org/abs/2606.24155)** | **Research collaboration (public preprints, not listed as accepted papers).** Chinese medical AI benchmarking across language models, multimodal systems and agents, with process-oriented evaluation and hallucination analysis. |
+| 📑 **[Med-GRADE](https://aclanthology.org/2026.emnlp-industry.220/)** | **Published at EMNLP 2026 Industry Track.** A physician-annotated benchmark for assessing medical dialogue judges; **third author**. |
 | 🏋️ **[Liantu / 练途](https://github.com/semonlu/Liantu)** | **Open-source project.** An offline-first evidence-informed training and nutrition app with AI coaching, reviewable plan adjustments and local-first records. |
 | 🧬 **[Seurat V5 Environment Skill](https://github.com/semonlu/seuratv5-env-requirements)** | **Open-source developer tool.** Reproducible environment setup and validation for single-cell analysis using R/Bioconductor and Python. |
 | 🔬 **Doctoral research · Frozen shoulder** | Ongoing clinical and translational work on needle-knife treatment, shoulder function and inflammation-related mechanisms. |
 
-## Selected publications
+## Publications / 代表性论文
 
-**First-author and co-first-author publications**
+### Medical AI · Accepted / published
+
+- **Jiang Y, Ding C, Lu R**, et al. **[Med-GRADE: Medical Grading and Rubric-based Assessment of Doctor-Patient Encounters](https://aclanthology.org/2026.emnlp-industry.220/).** *Proceedings of EMNLP 2026: Industry Track*, 3673–3694 (2026). **Third author.** A physician-annotated benchmark with 2,076 patient–LLM dialogues, 56 physician annotators and a 23-item clinical evaluation rubric.
+- Dong Y, Cheng J, Ding C, **Lu R**. **[Governing Clinical Readiness Claims Derived from Medical AI Benchmark Results](https://doi.org/10.1007/s10916-026-02445-7).** *Journal of Medical Systems* **50**, 119 (2026). **Co-corresponding author; published Comment.** Discusses responsible interpretation of benchmark scores and claims of clinical readiness.
+
+### Clinical & biomedical research · Selected published work
 
 - **Lu R**, Hu Z, Liu D. *From genetic correlation to surgical precision: Deciphering the heterogeneity and regulatory architecture of the GERD–asthma axis.* **International Journal of Surgery** (2026). [DOI](https://doi.org/10.1097/JS9.0000000000005220) · First author
 - **Lu R**, Ge S, He C, et al. *Psychological prehabilitation in total knee arthroplasty: Shifting focus from joint repair to mind recovery.* **World Journal of Psychiatry** (2026). [DOI](https://doi.org/10.5498/wjp.118418) · First author
@@ -49,17 +55,12 @@ My research sits at the intersection of **musculoskeletal rehabilitation, clinic
 - Ding C, **Lu R**, Kong Z, Huang R. *Exploring the triglyceride-glucose index's role in depression and cognitive dysfunction: Evidence from NHANES with machine learning support.* **Journal of Affective Disorders** (2025). [DOI](https://doi.org/10.1016/j.jad.2025.01.051) · Co-first author
 - Ge S, **Lu R**, Shi J, Liu S, Fu Q. *Effect of irrigation fluid temperature on postoperative swelling, pain, and long-term functional recovery following arthroscopic rotator cuff repair.* **American Journal of Translational Research** (2025). [DOI](https://doi.org/10.62347/LSFD4442) · Co-first author
 
-**Medical AI collaboration**
-
-- *MedBench v4: A Robust and Scalable Benchmark for Evaluating Chinese Medical Language Models, Multimodal Models, and Intelligent Agents.* **arXiv preprint** (2025). [Read preprint](https://arxiv.org/abs/2511.14439) · Contributing author
-
 <p align="right"><a href="https://orcid.org/0009-0002-6598-7400">More research on ORCID ↗</a></p>
 
-## Academic service & recognition
+## Academic service & editorial activity
 
 - **Peer-review service:** *PLOS ONE* and *BMC Neurology*.
 - **Book:** Editorial board member, *中西医结合康复临床实践* (Shanghai Scientific & Technical Publishers, 2026).
-- **Recognition:** First-class postgraduate scholarship for three consecutive years; university honors.
 
 ## Methods & tools
 

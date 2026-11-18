@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 700" role="img" aria-label="Renjie Lu, clinical science and computational medicine">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081529"/><stop offset=".55" stop-color="#102b4b"/><stop offset="1" stop-color="#123f59"/></linearGradient><linearGradient id="accent"><stop stop-color="#8be8d9"/><stop offset="1" stop-color="#f6d691"/></linearGradient><pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse"><path d="M72 0H0V72" fill="none" stroke="#a0d2ee" stroke-opacity=".06" stroke-width="2"/></pattern><radialGradient id="halo"><stop stop-color="#25849c" stop-opacity=".45"/><stop offset="1" stop-color="#0b2544" stop-opacity="0"/></radialGradient></defs>
+<rect width="2400" height="700" rx="46" fill="url(#bg)"/><rect width="2400" height="700" rx="46" fill="url(#grid)"/><circle cx="1990" cy="350" r="440" fill="url(#halo)"/>
+<path d="M96 104h76" stroke="url(#accent)" stroke-width="6" stroke-linecap="round"/>
+<text x="204" y="117" fill="#9bb9d0" font-size="27" letter-spacing="8" font-family="Arial, Helvetica, sans-serif" font-weight="700">CLINICAL SCIENCE / COMPUTATIONAL MEDICINE</text>
+<text x="106" y="278" font-size="110" font-family="Arial, Helvetica, sans-serif" font-weight="800" fill="#ffffff">Renjie Lu</text>
+<text x="108" y="366" font-size="50" font-family="Arial, Helvetica, sans-serif" fill="#8be4d7">Clinician · Researcher · Medical AI Builder</text>
+<path d="M108 410h1348" stroke="#abd6e5" stroke-opacity=".32" stroke-width="2"/>
+<text x="108" y="477" font-size="36" font-family="Arial, Helvetica, sans-serif" fill="#c4d8e9">Musculoskeletal Rehabilitation  •  AI Evaluation  •  Data Science</text>
+<rect x="106" y="540" width="923" height="80" rx="40" stroke="#8cd6d3" stroke-opacity=".35" stroke-width="2" fill="#e0f7f8" fill-opacity=".10"/>
+<circle cx="153" cy="580" r="10" fill="#8be8d9"/>
+<text x="184" y="592" font-size="30" font-family="Arial, Helvetica, sans-serif" fill="#d6e5ee">LONGHUA HOSPITAL · SHANGHAI, CHINA</text>
+<g transform="translate(1995 340)">
+<g fill="none" stroke-width="4"><circle r="318" stroke="#74cde1" stroke-opacity=".18"/><circle r="275" stroke="#77d0d4" stroke-width="6" stroke-opacity=".62" stroke-dasharray="26 48 10 75"/><circle r="252" stroke="#7ac4d5" stroke-opacity=".28"/><circle r="222" stroke="#f1cc90" stroke-width="7" stroke-opacity=".54" stroke-dasharray="88 45 22 60"/><circle r="180" stroke="#79c8d6" stroke-opacity=".35"/><circle r="133" stroke="#79c8d6" stroke-opacity=".4"/></g>
+<g stroke="#7ac6d7" stroke-opacity=".18" stroke-width="2"><path d="M-280 146L258 -94M-240 -194L190 242M0 -285L-57 261"/></g>
+<g fill="#86d7d5"><circle cx="-173" cy="-28" r="7"/><circle cx="-114" cy="-133" r="7"/><circle cx="-55" cy="-226" r="7"/><circle cx="66" cy="-159" r="7"/><circle cx="154" cy="-29" r="7"/><circle cx="113" cy="149" r="7"/><circle cx="-71" cy="170" r="7"/><circle cx="-143" cy="83" r="7"/><circle cx="50" cy="97" r="7"/></g>
+<circle r="67" fill="#2c6e85" fill-opacity=".6" stroke="#94e6dc" stroke-width="2"/><path d="M-47 0h23l12-30 22 59 18-37 14 8h12" fill="none" stroke="#f1cf91" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g><text x="1980" y="640" font-size="25" letter-spacing="5" font-family="Arial, Helvetica, sans-serif" fill="#a6c2d4">RESEARCH × PRACTICE</text>
+</svg>
